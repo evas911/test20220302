@@ -9,11 +9,17 @@ body{
   width: 250px;
   height: 400px;
   background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 10px #aaa;
   padding: 20px;
   box-sizing: border-box;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 .profile img{
+  color: black;
+  margin-top: 20px;
+  background-position: center;
+  border: 3px solid crimson;
+  border-radius: 50px;
 }
 .profile p{
   font-size: 20px;
