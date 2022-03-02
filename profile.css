@@ -6,13 +6,21 @@ body{
   overflow: hidden;
 }
 .profile{
-
+  width: 250px;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+.profile img{
 }
 .profile p{
   font-size: 20px;
+  color: white;
 }
 .profile p span{
   margin-right: 10px;
   font-weight: bold;
-  color: crimson;
+  color: yellow;
 }
